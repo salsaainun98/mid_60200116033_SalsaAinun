@@ -1,5 +1,5 @@
 <?php
-$s = "Assalamualaikum";
+$s = "Assalamualaikum calon S.Kom";
 
 echo $s;
 
